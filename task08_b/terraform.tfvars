@@ -1,6 +1,6 @@
 location = "southindia"
 
-name_prefix = "ccmtr-f5n7jzgb-mod8b"
+name_prefix = "cmtr-f5n7jzgb-mod8b"
 
 archive_type        = "tar.gz"
 archive_source_dir  = "application"
